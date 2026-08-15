@@ -1,0 +1,45 @@
+[
+  {
+    "id": "36ebfb1b-7c04-5e54-acbc-8b2c06eeeb63",
+    "clubName": "w four",
+    "latitude": -8.552838,
+    "longitude": 125.5423152,
+    "courses": [
+      "w four"
+    ],
+    "country": "TL",
+    "osmType": "way",
+    "osmId": 1126807689,
+    "savedAt": 1786594338.96812,
+    "holes": null,
+    "par": null,
+    "courseName": null,
+    "architect": null,
+    "startDate": null,
+    "fee": null,
+    "access": null,
+    "website": null,
+    "phone": null,
+    "fax": null,
+    "email": null,
+    "operator": "private",
+    "openingHours": "24/7",
+    "address": {
+      "street": "Rua Do Lafaek",
+      "housenumber": "3"
+    },
+    "sport": null,
+    "wheelchair": null,
+    "description": null,
+    "wikipedia": null,
+    "wikidata": null,
+    "rawTags": {
+      "addr:housenumber": "3",
+      "addr:street": "Rua Do Lafaek",
+      "leisure": "golf_course",
+      "name": "w four",
+      "opening_hours": "24/7",
+      "operator": "private"
+    }
+  }
+]
